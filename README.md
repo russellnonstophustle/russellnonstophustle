@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @russellnonstophustle
-- 👀 I’m interested in learnig to code to change my occuption and also just to learn a new skill.
+- 👀 I’m interested in learning to code to change my occuption and also just to learn a new skill.
 - I would love to make an app to help complete my work at my current job which is Guest Services at a Surf Resort in Nicaragua.
-- 🌱 I’m currently learning HTML and CSS and looking forward to jumping into Java and eventually React or whatever is best to make a simple app.
-- 💞️ I’m looking to collaborate on really anything at this point, I am a complete Noob newbie so I just need to see new stuff everyday and 
-- keep learning everyday as much as possible.
+- 🌱 I’m currently learning JavaScript and doing daily CodeWars challenges to up my abilities
+- 💞️ My passion to code was sparked by private server GTAV RP games and the hopes to build cool stuff
+- I just wanan keep learning everyday as much as possible until my head explodes or I make something so cool I get addicted to playing my own creation and fall into a dark hole of joystick manipulation
 - 📫 How to reach me; my email is crussell8690@gamil.com, IG @russellnonstophustle, or why not just text me my number is +1-619-342-5952
 
 <!---
