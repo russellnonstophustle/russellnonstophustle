@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russellnonstophustle
-- 👀 I’m interested in learning to code to change my occuption and also just to learn a new skill.
-- I would love to make an app to help complete my work at my current job which is Guest Services at a Surf Resort in Nicaragua.
+- 👀 I’m giddy about learning new tech and addicted to bringing ideas to life.
+- I enjoy making sites for the people living in Nicaragua that are entrepreneurs but can't afford to pay for website development 
 - 🌱 I’m currently learning JavaScript and doing daily CodeWars challenges to up my abilities
 - 💞️ My passion to code was sparked by private server GTAV RP games and the hopes to build cool stuff
 - I just wanna keep learning everyday as much as possible until my head explodes or I make something so cool I get addicted to playing my own creation and fall into a dark hole of joystick manipulation
