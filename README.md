@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @russellnonstophustle
+- 👋 Hi, I’m Chris Russell aka @russellnonstophustle
 - 👀 I’m giddy about learning new tech and addicted to bringing ideas to life.
 - I enjoy making things, breaking things, and fixing things
 - 🌱 I’m currently learning Node.js and doing daily CodeWars challenges to up my abilities
