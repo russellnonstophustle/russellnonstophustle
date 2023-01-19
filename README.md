@@ -24,6 +24,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellnonstophustle&show_icons=true?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellnonstophustle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 russellnonstophustle/russellnonstophustle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
