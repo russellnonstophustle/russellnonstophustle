@@ -20,12 +20,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=AI+Enthusiast;Always+Learning+New+Things;Empowering+Others;Looking+Forward+To+Meeting+You+...&center=true"></a>
 
 </p>
-
+<p align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellnonstophustle&show_icons=true?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellnonstophustle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellnonstophustle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  </p>
 <!---
 russellnonstophustle/russellnonstophustle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
