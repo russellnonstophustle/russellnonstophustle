@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Chris Russell</h1>
-<h3 align="center"> </h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 - 👀 I’m excited about learning new tech and addicted to bringing ideas to life.
 - I enjoy making things, breaking things, and fixing things
