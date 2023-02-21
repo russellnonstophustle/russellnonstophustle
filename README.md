@@ -5,7 +5,7 @@
 - I enjoy making things, breaking things, and fixing things
 - 🌱 I’m currently learning Node and React doing daily CodeWars challenges to up my abilities
 - 💞️ My passion to code was sparked by private server GTAV RP games and the hopes to build cool stuff
-- I just wanna keep learning everyday as much as possible until my head explodes or I make something so cool I get addicted to playing my own creation and fall into a dark hole of joystick manipulation
+- I just wanna keep learning everyday as much as possible until my head explodes or I make something so cool I get addicted to my own creation and get lost in an infinite loop of scrolling content lol
 
 ## 📫 How to reach me: 
 <h1 align="center">👀 Take a peek at my<a href="https://chrisrussell.netlify.app/"> Portfolio</a>👀</h1>
