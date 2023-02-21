@@ -54,9 +54,9 @@
 <!-- <span><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/></span> -->
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellnonstophustle&show_icons=true?theme=radical)](https://github.com/anuraghazra/github-readme-stats) Delete the comment bracket when the stats are higher-->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellnonstophustle&show_icons=true?theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellnonstophustle)](https://github.com/anuraghazra/github-readme-stats) remove the comment brackets when the stats are higher-->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellnonstophustle)](https://github.com/anuraghazra/github-readme-stats) 
 
  
 <!---
